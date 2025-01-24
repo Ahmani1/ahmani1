@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is El Mokhtar Ahmani 😄. I am a Front-end developer. My passion is to discover technologies by creating demos to learn.
+
 <!--
 **Ahmani1/ahmani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
